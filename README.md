@@ -8,7 +8,7 @@ Expand EnderChest by a Factor of Nine
 You can open a different EnderChest for each selected slot.  
   
 ※スロット：利き手に持っているアイテムが何番目にあるか  
-※slot: where it the item in your dominant hand?  
+※slot: where the item in your dominant hand is.  
   
 アイテムが満杯の時、インベントリの最後のアイテムが一時的に預けられます。  
 エンダーチェストを閉じると、預けたアイテムが戻ってきます。  
