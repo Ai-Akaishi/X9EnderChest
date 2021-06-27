@@ -7,5 +7,5 @@
 # @within
 #   x9_ender_chest:open
 
-replaceitem entity @s armor.feet minecraft:leather_leggings{x9EnderChest:true,display:{Name:'"EnderChestGhost"'},AttributeModifiers:[]}
+replaceitem entity @s armor.legs minecraft:leather_leggings{x9EnderChest:true,display:{Name:'"EnderChestGhost"'},AttributeModifiers:[]}
 scoreboard players set _ x9EnderChest 1
