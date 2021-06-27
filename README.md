@@ -2,6 +2,11 @@
 Expand EnderChest by a Factor of Nine  
 エンダーチェスト９倍拡張データパック
 
+# 動作確認済みバージョン / Verified minecraft versions
+
+- 1.16.2
+- 1.16.5
+
 # 使い方/How To Use
 
 選択しているスロット毎に、異なるエンダーチェストを開けます。  
