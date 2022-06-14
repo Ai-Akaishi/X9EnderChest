@@ -4,7 +4,7 @@
 ### This software is released under the MIT License, see LICENSE.
 
 # 個別ストレージ呼び出し
-function oh_my_dat:please
+function #oh_my_dat:please
 
 ## 最初の樽をセット
 data modify storage player_item_tuner: result.items set value [{id:"minecraft:barrel",Count:1b,Slot:0b,tag:{x9EnderChest:true,BlockEntityTag:{Items:[]}}}]

@@ -5,7 +5,7 @@
 ### This software is released under the MIT License, see LICENSE.
 
 # 個別ストレージ呼び出し
-function oh_my_dat:please
+function #oh_my_dat:please
 
 # 正常に閉じられていなければ、閉じちゃえばいい！！
 execute if data storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].x9EnderChest run function x9_ender_chest:close/

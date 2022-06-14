@@ -5,7 +5,7 @@
 ### This software is released under the MIT License, see LICENSE.
 
 # 個別ストレージ呼び出し
-function oh_my_dat:please
+function #oh_my_dat:please
 # 保存したスロットを確認
 execute store result score _ x9EnderChest run data get storage oh_my_dat: _[-4][-4][-4][-4][-4][-4][-4][-4].x9EnderChest.Slot
 # アイテム情報更新
